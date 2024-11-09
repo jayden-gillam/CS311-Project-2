@@ -1,0 +1,71 @@
+[
+    {
+        "prompt":"What is the collective noun for a group of crows?",
+        "answer":"A Murder",
+        "percentUnderstood":100,
+        "nextView":0
+    },
+
+    {
+        "prompt":"Which band's signature song is \"Wonderwall\"?",
+        "answer":"Oasis",
+        "percentUnderstood":10,
+        "nextView":2
+    },
+
+    {
+        "prompt":"What did a shepherd boy discover at Qumran, Jordan in 1946 and 1947?",
+        "answer":"the Dead Sea Scrolls",
+        "percentUnderstood":80,
+        "nextView":1
+    },
+    
+    {
+        "prompt":"What type of mammals have pouches for carrying their young?",
+        "answer":"Marsupials",
+        "percentUnderstood":70,
+        "nextView":3
+    },
+
+    {
+        "prompt":"How many countries/regions are there in the United Kingdom? ",
+        "answer":"4",
+        "percentUnderstood":75,
+        "nextView":4
+    },
+
+    {
+        "prompt":"In computing, the term “bit” is an abbreviation of what?",
+        "answer":"binary digit",
+        "percentUnderstood":10,
+        "nextView":5
+    },
+
+    {
+        "prompt":"Darryl Philbin plays this character in Michael's fictional movie \"Threat Level Midnight\"",
+        "answer":"the President of the United States",
+        "percentUnderstood":0,
+        "nextView":6
+    },
+
+    {
+        "prompt":"Which Constitutional Amendment granted women the right to vote?",
+        "answer":"the 19th Amendment",
+        "percentUnderstood":15,
+        "nextView":7
+    },
+
+    {
+        "prompt":"What happens when a pig is struck by lightning?",
+        "answer":"Turns into a Zombie Pigman",
+        "percentUnderstood":100,
+        "nextView":8
+    },
+    
+    {
+        "prompt":"Who was Americas first billionaire? ",
+        "answer":"John D. Rockefeller",
+        "percentUnderstood":25,
+        "nextView":9
+    }
+]
