@@ -44,6 +44,7 @@ export default function CardListingView() {
             ))}
             
             <h2 className="text-lg font-semibold text-center text-blue-500 hover:underline">{<Link href="/add_card">Add Card</Link>}</h2>
+            <h2 className="text-lg font-semibold text-center text-blue-500 hover:underline"> </h2>
         </div>
     </div>
     );
